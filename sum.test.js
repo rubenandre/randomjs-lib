@@ -22,7 +22,7 @@ test('Generate a random even number the number has to be even', () => {
     expect(value % 2).toBe(0)
 })
 
-test('Generate a random even number the number has to be odd', () => {
+test('Generate a random odd number the number has to be odd', () => {
     const value = random.randOdd(1, 10)
     expect(value % 2).toBe(1)
 })
