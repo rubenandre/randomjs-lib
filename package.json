@@ -1,0 +1,29 @@
+{
+  "name": "randomjs-lib",
+  "version": "0.1.0",
+  "description": "A JS lib to generate random numbers",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rubenandre/randomjs-lib.git"
+  },
+  "keywords": [
+    "random",
+    "numbers",
+    "integers",
+    "float",
+    "boolean"
+  ],
+  "author": "Rúben Silva",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rubenandre/randomjs-lib/issues"
+  },
+  "homepage": "https://github.com/rubenandre/randomjs-lib#readme",
+  "devDependencies": {
+    "jest": "^24.1.0"
+  }
+}
